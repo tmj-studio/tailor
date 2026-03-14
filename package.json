@@ -1,0 +1,20 @@
+{
+  "name": "tailormyjob",
+  "version": "1.0.0",
+  "description": "[![Website](https://img.shields.io/website?url=https%3A%2F%2Ftailormyjob.com&label=tailormyjob.com)](https://tailormyjob.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![AWS](https://img.shields.io/badge/Powered%20by-AWS-orange)](https://aws.amazon.com/) [![AI](https://img.shields.io/badge/AI-Claude%203.5%20Sonnet-blueviolet)](https://www.anthropic.com/)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.17.2",
+    "playwright": "^1.57.0"
+  }
+}
